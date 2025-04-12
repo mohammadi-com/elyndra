@@ -59,8 +59,8 @@ A prototype application that transforms paper health & safety forms into interac
 
 4. Set up environment variables in `.env` file:
    ```
-   FORMIO_SERVER_URL=https://odlsnbvnodlkzac.form.io
-   FORMIO_API_KEY=Yjanmxz7qe7idL2CxBvnyLjBknM2nX
+   FORMIO_SERVER_URL=Your form.io's server
+   FORMIO_API_KEY=Your form.io's key
    OPENAI_API_KEY=your_openai_api_key_here
    ```
 
